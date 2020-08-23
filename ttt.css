@@ -1,0 +1,22 @@
+
+td{
+  height: 100px;
+  width: 100px;
+  border: 5px solid white;
+  color:white;
+  text-align: center;
+  font-size: 60px;
+
+}
+body{
+  background: #011627
+
+}
+button{
+  margin-left: 85% ;
+}
+h3{
+  padding-left: 20px;
+  color: white;
+  margin-bottom: 20px;
+}
